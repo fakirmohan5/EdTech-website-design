@@ -1,0 +1,45 @@
+.top_places
+{
+	border: 0px solid black;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+.top_pl_city
+{
+	border:0px solid red;
+	width:350px;
+	height:250px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	box-shadow: 5px 5px 5px 5px #e1e3ef;
+	transition:transform 1s;
+}
+.top_pl_city:hover
+{
+	transform: scale(1.05);
+}
+.top_pl_city img
+{
+	width:100%;
+	height:80%
+}
+.checked
+{
+	color:orange;
+	
+}
+.starr
+{
+	border:0px solid black;
+	height:20px;
+	display:flex;
+	justify-content:center;
+}
+.title p
+{
+	text-align:center;
+	font-size:20px;
+}
+	

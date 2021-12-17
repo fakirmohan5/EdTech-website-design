@@ -1,0 +1,15 @@
+table
+{
+	height: 400px;
+}
+input
+{
+	width:100%;
+	height:30px;
+	border:2px solid green;
+}
+input[type="button"]:hover
+{
+	background-color:green;
+	colour: white;
+}
