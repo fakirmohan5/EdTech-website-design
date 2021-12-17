@@ -1,2 +1,3 @@
 # EdTech-website-design
 i am working on a website for  a EdTech website for my own startup. This website is designed only in frontend, no work has been done on back-end. i am new to web designing so , i tried to bouild a basic website lokking at a tutorial for food-delivery website making on youtube. Here i would like to give shout out to "cyberwarriors" youtube channel. main features incorporated in this website will be animations on hovering, sliding of pictures on home page, making so manu divisions and decorating them on css. now the fear is gone. i can start working on my more suphosticated website.
+Remember : keep all the photos in same folder as HTML codes.
